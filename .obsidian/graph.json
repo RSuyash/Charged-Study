@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"LearningSystem/connections/Metabolites/Secondary Metabolites.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:\"LearningSystem/connections/Biosynthetic Pathways/Biosynthetic Pathways Overview.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:\"LearningSystem/connections/Sources/Sources of Secondary Metabolites.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:\"LearningSystem/connections/Biological Activity\"",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:\"LearningSystem/connections/Structural Features\"",
+      "color": {
+        "a": 1,
+        "rgb": 16744448
+      }
+    },
+    {
+      "query": "path:\"LearningSystem/connections/Metabolites\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"LearningSystem/connections/Sources\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431640
+      }
+    },
+    {
+      "query": "path:\"LearningSystem/connections/Biosynthetic Pathways\"",
+      "color": {
+        "a": 1,
+        "rgb": 14246472
+      }
+    },
+    {
+      "query": "tag:#classification",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1.1257785467128,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 11.2456747404844,
+  "linkStrength": 0.846020761245675,
+  "linkDistance": 263,
+  "scale": 0.3048349040416798,
+  "close": true
+}

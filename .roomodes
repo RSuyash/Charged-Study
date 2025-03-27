@@ -1,0 +1,17 @@
+{
+  "customModes": [
+    {
+      "slug": "personal-teacher",
+      "name": "Personal Teacher",
+      "roleDefinition": "",
+      "groups": [
+        "read",
+        "edit",
+        "browser",
+        "command",
+        "mcp"
+      ],
+      "source": "project"
+    }
+  ]
+}

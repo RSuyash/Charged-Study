@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "2074f8f1c42ae35d",
+    "type": "split",
+    "children": [
+      {
+        "id": "61f54293a162f2a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76e57cb0ce275192",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "386fd2b999e7bfa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "113ee3a48b9e6481",
+        "type": "tabs",
+        "dimension": 99.99999999999999,
+        "children": [
+          {
+            "id": "af682cd3ecfa1702",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f6a16c29d2660db4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#polyketide",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06b083a4617d9fd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a8a5e9e94bbc49bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2cea256895001d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb5e02510d211bad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LearningSystem/connections/Alkaloids.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Alkaloids"
+            }
+          },
+          {
+            "id": "86f42c002f59530a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LearningSystem/connections/Alkaloids.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Alkaloids"
+            }
+          },
+          {
+            "id": "baab200b78a2e826",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f53dfbb738f35770",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LearningSystem/connections/Alkaloids.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Alkaloids"
+            }
+          },
+          {
+            "id": "b21c179e4b919410",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "b00c1265062770f5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "f6a16c29d2660db4",
+  "lastOpenFiles": [
+    "LearningSystem/standardize_notes.py",
+    "LearningSystem/standardization_plan.md",
+    "LearningSystem/connections/Biological Activity/Antioxidant Activity.md",
+    "Pharmacopoeias.md",
+    "LearningSystem/connections/β-Lactam Antibiotics.md",
+    "Subjects/Pharmaceutical Biotechnology/PB-Unit-IV.md",
+    "β-Lactamase.md",
+    "LearningSystem/connections/Monoclonal Antibodies.md",
+    "LearningSystem/connections/Insulin.md",
+    "Secondary Metabolites Overview Image.md",
+    "Subjects/Pharmaceutical Biotechnology/PB-Unit-II-StudyGuide.md",
+    "Subjects/Pharmaceutical Biotechnology/PB-Unit-II-Flashcards.md",
+    "LearningSystem/connections/Metabolites/Secondary Metabolites.md",
+    "LearningSystem/connections/Biosynthetic Pathways/Biosynthetic Pathways Overview.md",
+    "LearningSystem/connections/Biological Activity/Antimalarial Activity.md",
+    "LearningSystem/connections/Biological Activity/Anti-inflammatory Activity.md",
+    "LearningSystem/USER_NEEDS.md",
+    "LearningSystem 1/connections/Structural Features/Meroterpenoids and Prenylation.md",
+    "LearningSystem 1/connections/Sources/Sources of Secondary Metabolites.md",
+    "LearningSystem 1/connections/Sources/Plant Sources of Secondary Metabolites.md",
+    "LearningSystem 1/connections/Sources/Bacterial Sources of Secondary Metabolites.md",
+    "LearningSystem 1/connections/Sources/Fungal Sources of Secondary Metabolites.md",
+    "LearningSystem 1/connections/Sources/Animal Sources of Secondary Metabolites.md",
+    "LearningSystem 1/connections/Metabolites/Terpenoids.md",
+    "LearningSystem 1/connections/Metabolites/Secondary Metabolites.md",
+    "LearningSystem 1/connections/Metabolites/Polyketides.md",
+    "LearningSystem 1/data/PB-Unit-IV.json",
+    "LearningSystem 1/data/PB-Unit-III.json",
+    "LearningSystem 1/data/PB-Unit-II.json",
+    "LearningSystem 1/data/PB-Unit-I.json",
+    "LearningSystem 1/data/master_log.json",
+    "LearningSystem 1/data/IB-Unit-IV.json",
+    "LearningSystem 1/data/IB-Unit-III.json",
+    "LearningSystem 1/data/IB-Unit-II.json",
+    "LearningSystem 1/data/IB-Unit-I.json",
+    "LearningSystem 1/data/EB-Unit-IV.json",
+    "assets/image 11.png",
+    "assets/image 2.png",
+    "assets/fcell-09-664418-g001.jpg",
+    "assets/image 37.png",
+    "assets/image 35.png",
+    "assets/image 34.png",
+    "assets/image 33.png",
+    "assets/image 45.png",
+    "assets/image 44.png",
+    "assets/image 43.png",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas"
+  ]
+}

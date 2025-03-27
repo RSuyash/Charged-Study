@@ -1,0 +1,33 @@
+# LearningSystem/connections/Biosynthetic Pathways/Biosynthetic Pathways Overview.md
+
+---
+**Type:** Overview
+**Status:** Stub
+**Related:** [[Secondary Metabolites]], [[Metabolites]], [[Sources of Secondary Metabolites]]
+**Tags:** #biochemistry #metabolism #pathway
+---
+
+# Biosynthetic Pathways Overview
+
+This note serves as an entry point for understanding the various biosynthetic pathways responsible for producing [[Secondary Metabolites]]. These pathways represent the complex enzymatic steps organisms use to construct diverse chemical structures from simpler precursors.
+
+## Major Pathway Categories
+
+*   [[Biosynthetic Pathways/Shikimic Acid Pathway]] - Leads to many [[Phenolic Compounds]].
+*   [[Biosynthetic Pathways/Mevalonate Pathway (MVA)]] &amp; [[Biosynthetic Pathways/Methylerythritol Phosphate Pathway (MEP)]] - Primarily responsible for synthesizing [[Terpenoids]] and steroids.
+*   [[Biosynthetic Pathways/Malonyl-CoA Pathway]] - Key for producing [[Polyketides]] and fatty acids.
+*   [[Biosynthetic Pathways/Amino Acid Derived Pathways]] - Source of [[Alkaloids]] and some [[Phenolic Compounds]].
+
+## Importance
+
+Understanding these pathways is crucial for:
+*   Predicting the types of metabolites produced by an organism.
+*   Metabolic engineering to enhance production of desired compounds.
+*   Elucidating the evolutionary relationships between different metabolite classes.
+*   Connecting primary metabolism (precursors) to secondary metabolism (final products).
+
+## Connections
+
+*   **Metabolites:** Specific classes like [[Terpenoids]], [[Alkaloids]], [[Phenolic Compounds]], [[Polyketides]] are products of distinct pathways.
+*   **Sources:** Different [[Sources of Secondary Metabolites]] (plants, fungi, bacteria) may utilize unique variations or combinations of these pathways.
+*   **Enzymology:** Each step is catalyzed by specific enzymes, which are often targets for regulation or genetic modification.
