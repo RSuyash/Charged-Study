@@ -3,6 +3,7 @@ import glob
 import frontmatter
 from datetime import date
 import git
+import yaml
 
 # Define default values for new properties
 DEFAULT_VALUES = {
