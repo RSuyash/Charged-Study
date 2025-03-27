@@ -1,21 +1,47 @@
 ---
-Type: Guideline
+Cognitive Load: Medium
+Confidence: Medium
+Date: 2025-03-27
+Date Accessed: null
+Elaboration Level: Basic
+Forgetting Index: 1.0
+Last Reviewed Date: null
+Mnemonic Encoding: ''
 Purpose: Example prompts for requesting different types of connections from Roo (AI
   Assistant).
 Related: ROO_CONNECTION_GUIDELINES
-Date: 2025-03-27
-Tags: null
 Source: ''
-Confidence: Medium
-Date Accessed: null
 Spaced Repetition Interval: 1
-Last Reviewed Date: null
-Forgetting Index: 1.0
-Cognitive Load: Medium
-Elaboration Level: Basic
-Mnemonic Encoding: ''
-
+Tags: null
+Type: Guideline
+connections:
+- Primary Metabolites: Key differences in function, production, etc.
+- Pharmaceutical Biotechnology: Significance and applications in pharmaceuticals
+- Industrial Biotechnology: Production and optimization in industrial settings
+- Sources of Secondary Metabolites: Classification based on biological sources
+- Plant Sources of Secondary Metabolites: Detailed list of plant-derived secondary
+    metabolites
+- Fungal Sources of Secondary Metabolites: Detailed list of fungal-derived secondary
+    metabolites
+- Bacterial Sources of Secondary Metabolites: Detailed list of bacterial-derived secondary
+    metabolites
+- Animal Sources of Secondary Metabolites: Detailed list of animal-derived secondary
+    metabolites
+- Biosynthetic Pathways/Biosynthetic Pathways Overview: Overview of how secondary
+    metabolites are synthesized
+coverage: 0.0
+review_dates:
+- 2025-03-27: Initial creation
+- '2025-03-27: Added by script'
+tags:
+- concept
+- metabolite
+- classification
+- source
+- pharmaceutical_biotechnology
+- PB_Unit_I
 ---
+
 # Prompt Examples for Creating Connections (for Roo)
 
 This document provides examples of how to ask Roo to create different kinds of connections between notes in this Obsidian vault. Refer to [[ROO_CONNECTION_GUIDELINES]] for the underlying strategies.

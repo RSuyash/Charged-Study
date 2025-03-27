@@ -1,4 +1,13 @@
 ---
+Cognitive Load: Medium
+Confidence: Medium
+Date Accessed: null
+Elaboration Level: Basic
+Forgetting Index: 1.0
+Last Reviewed Date: null
+Mnemonic Encoding: ''
+Source: ''
+Spaced Repetition Interval: 1
 connections:
 - Secondary Metabolites: \"Type of secondary metabolite\"
 - Sources of Secondary Metabolites: \"Distribution and sources of coumarins\"
@@ -11,9 +20,9 @@ connections:
   properties'
 - '[[Biological Activity/Anticancer Activity]]: Some show anticancer, antiviral, neuroprotective
   effects under investigation'
+coverage: 0.0
 review_dates:
 - 2025-03-27: Initial creation
-coverage: 0.0
 tags:
 - concept
 - metabolite
@@ -22,17 +31,8 @@ tags:
 - source
 - pharmaceutical_biotechnology
 - PB_Unit_I
-Source: ''
-Confidence: Medium
-Date Accessed: null
-Spaced Repetition Interval: 1
-Last Reviewed Date: null
-Forgetting Index: 1.0
-Cognitive Load: Medium
-Elaboration Level: Basic
-Mnemonic Encoding: ''
-
 ---
+
 # Coumarins
 
 ## Overview

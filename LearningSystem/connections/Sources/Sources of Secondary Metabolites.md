@@ -1,4 +1,13 @@
 ---
+Cognitive Load: Medium
+Confidence: Medium
+Date Accessed: null
+Elaboration Level: Basic
+Forgetting Index: 1.0
+Last Reviewed Date: null
+Mnemonic Encoding: ''
+Source: ''
+Spaced Repetition Interval: 1
 connections:
 - Secondary Metabolites: \"Source classification of secondary metabolites\"
 - Plant Sources of Secondary Metabolites: \"Detailed list of plant-derived secondary
@@ -9,9 +18,9 @@ connections:
     secondary metabolites\"
 - Animal Sources of Secondary Metabolites: \"Detailed list of animal-derived secondary
     metabolites\"
+coverage: 0.0
 review_dates:
 - 2025-03-27: Initial creation
-coverage: 0.0
 tags:
 - concept
 - source
@@ -19,17 +28,8 @@ tags:
 - metabolite
 - pharmaceutical_biotechnology
 - PB_Unit_I
-Source: ''
-Confidence: Medium
-Date Accessed: null
-Spaced Repetition Interval: 1
-Last Reviewed Date: null
-Forgetting Index: 1.0
-Cognitive Load: Medium
-Elaboration Level: Basic
-Mnemonic Encoding: ''
-
 ---
+
 # Sources of Secondary Metabolites
 
 This note organizes secondary metabolites based on their biological sources, helping understand the distribution of these compounds across different organisms.

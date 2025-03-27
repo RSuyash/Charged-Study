@@ -193,6 +193,7 @@
   },
   "active": "76e57cb0ce275192",
   "lastOpenFiles": [
+    "standardize_md.py",
     "LearningSystem/connections/Biological Activity/Anticancer Activity.md",
     "LearningSystem/connections/Aspergillus niger/Biological Activity/Anti-inflammatory Activity.md",
     "LearningSystem/connections/Aspergillus niger/Biological Activity/Antioxidant Activity.md",
@@ -220,7 +221,6 @@
     "LearningSystem/connections/Protease.md",
     "Protease_Connections.md",
     "Subjects/Industrial Biotechnology/IB-Unit-III.md",
-    "LearningSystem/connections/β-Lactam Antibiotics.md",
     "LearningSystem/standardize_notes.py",
     "LearningSystem 1/data/PB-Unit-IV.json",
     "LearningSystem 1/data/PB-Unit-III.json",

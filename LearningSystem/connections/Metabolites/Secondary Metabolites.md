@@ -1,4 +1,13 @@
 ---
+Cognitive Load: Medium
+Confidence: Medium
+Date Accessed: null
+Elaboration Level: Basic
+Forgetting Index: 1.0
+Last Reviewed Date: null
+Mnemonic Encoding: ''
+Source: ''
+Spaced Repetition Interval: 1
 connections:
 - Primary Metabolites: \"Key differences in function, production, etc.\"
 - Pharmaceutical Biotechnology: \"Significance and applications in pharmaceuticals\"
@@ -14,9 +23,9 @@ connections:
     metabolites\"
 - Biosynthetic Pathways/Biosynthetic Pathways Overview: \"Overview of how secondary
     metabolites are synthesized\"
+coverage: 0.0
 review_dates:
 - 2025-03-27: Initial creation
-coverage: 0.0
 tags:
 - concept
 - metabolite
@@ -24,17 +33,8 @@ tags:
 - source
 - pharmaceutical_biotechnology
 - PB_Unit_I
-Source: ''
-Confidence: Medium
-Date Accessed: null
-Spaced Repetition Interval: 1
-Last Reviewed Date: null
-Forgetting Index: 1.0
-Cognitive Load: Medium
-Elaboration Level: Basic
-Mnemonic Encoding: ''
-
 ---
+
 # Secondary Metabolites
 =======
 

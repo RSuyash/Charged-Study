@@ -1,9 +1,45 @@
 ---
+Cognitive Load: Medium
+Confidence: Medium
+Date Accessed: null
+Elaboration Level: Basic
+Forgetting Index: 1.0
+Last Reviewed Date: null
+Mnemonic Encoding: ''
+Source: ''
+Spaced Repetition Interval: 1
+connections:
+- Primary Metabolites: Key differences in function, production, etc.
+- Pharmaceutical Biotechnology: Significance and applications in pharmaceuticals
+- Industrial Biotechnology: Production and optimization in industrial settings
+- Sources of Secondary Metabolites: Classification based on biological sources
+- Plant Sources of Secondary Metabolites: Detailed list of plant-derived secondary
+    metabolites
+- Fungal Sources of Secondary Metabolites: Detailed list of fungal-derived secondary
+    metabolites
+- Bacterial Sources of Secondary Metabolites: Detailed list of bacterial-derived secondary
+    metabolites
+- Animal Sources of Secondary Metabolites: Detailed list of animal-derived secondary
+    metabolites
+- Biosynthetic Pathways/Biosynthetic Pathways Overview: Overview of how secondary
+    metabolites are synthesized
+coverage: 0.0
+parent:
+- - Enzyme Production.md
+related:
+- - Insulin
+- - - Monoclonal Antibodies
+- - - "\u03B2-Lactam Antibiotics"
+review_dates:
+- 2025-03-27: Initial creation
+- '2025-03-27: Added by script'
+tags:
+- industrial_biotechnology
+- enzyme
+- protease
 type: Concept
-parent: [[Enzyme Production.md]]
-tags: [industrial_biotechnology, enzyme, protease]
-related: [[Insulin], [[Monoclonal Antibodies]], [[β-Lactam Antibiotics]] ]
 ---
+
 # Protease Connections and Networks in Industrial Biotechnology
 
 This note outlines the key aspects of protease production and applications in [[Enzyme Production.md]] within industrial biotechnology.

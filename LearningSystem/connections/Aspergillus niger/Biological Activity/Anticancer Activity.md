@@ -1,19 +1,45 @@
 ---
-Type: Biological Activity
-Status: Stub
-Related: Secondary Metabolites]], [[Cancer Biology]] (Potential future note)
-Tags: biological_activity
-Source: ''
+Cognitive Load: Medium
 Confidence: Medium
 Date Accessed: null
-Spaced Repetition Interval: 1
-Last Reviewed Date: null
-Forgetting Index: 1.0
-Cognitive Load: Medium
 Elaboration Level: Basic
+Forgetting Index: 1.0
+Last Reviewed Date: null
 Mnemonic Encoding: ''
-
+Related: Secondary Metabolites]], [[Cancer Biology]] (Potential future note)
+Source: ''
+Spaced Repetition Interval: 1
+Status: Stub
+Tags: biological_activity
+Type: Biological Activity
+connections:
+- Primary Metabolites: Key differences in function, production, etc.
+- Pharmaceutical Biotechnology: Significance and applications in pharmaceuticals
+- Industrial Biotechnology: Production and optimization in industrial settings
+- Sources of Secondary Metabolites: Classification based on biological sources
+- Plant Sources of Secondary Metabolites: Detailed list of plant-derived secondary
+    metabolites
+- Fungal Sources of Secondary Metabolites: Detailed list of fungal-derived secondary
+    metabolites
+- Bacterial Sources of Secondary Metabolites: Detailed list of bacterial-derived secondary
+    metabolites
+- Animal Sources of Secondary Metabolites: Detailed list of animal-derived secondary
+    metabolites
+- Biosynthetic Pathways/Biosynthetic Pathways Overview: Overview of how secondary
+    metabolites are synthesized
+coverage: 0.0
+review_dates:
+- 2025-03-27: Initial creation
+- '2025-03-27: Added by script'
+tags:
+- concept
+- metabolite
+- classification
+- source
+- pharmaceutical_biotechnology
+- PB_Unit_I
 ---
+
 # Anticancer Activity
 
 This note describes the biological activity of compounds used in the treatment of cancer (antineoplastic agents). These compounds interfere with the growth, proliferation, or survival of cancer cells through various mechanisms. Many important chemotherapy drugs are derived from or inspired by [[Secondary Metabolites]].
