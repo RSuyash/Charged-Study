@@ -1,9 +1,10 @@
 ---
 tags:
-- protein
-- hormone
-- diabetes
-- pharmaceutical
+  - protein
+  - hormone
+  - diabetes
+  - pharmaceutical
+related: [[Protease]]
 Source: ''
 Confidence: Medium
 Date Accessed: null
@@ -13,7 +14,6 @@ Forgetting Index: 1.0
 Cognitive Load: Medium
 Elaboration Level: Basic
 Mnemonic Encoding: ''
-
 ---
 # Insulin
 

@@ -1,8 +1,9 @@
 ---
 tags:
-- antibiotic
-- pharmaceutical
-- secondary metabolite
+  - antibiotic
+  - pharmaceutical
+  - secondary metabolite
+related: [[Protease]]
 Source: ''
 Confidence: Medium
 Date Accessed: null
@@ -12,7 +13,6 @@ Forgetting Index: 1.0
 Cognitive Load: Medium
 Elaboration Level: Basic
 Mnemonic Encoding: ''
-
 ---
 # β-Lactam Antibiotics
 

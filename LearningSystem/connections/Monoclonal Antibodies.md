@@ -1,8 +1,9 @@
 ---
 tags:
-- protein
-- therapeutic
-- pharmaceutical
+  - protein
+  - therapeutic
+  - pharmaceutical
+related: [[Protease]]
 Source: ''
 Confidence: Medium
 Date Accessed: null
@@ -12,7 +13,6 @@ Forgetting Index: 1.0
 Cognitive Load: Medium
 Elaboration Level: Basic
 Mnemonic Encoding: ''
-
 ---
 # Monoclonal Antibodies
 
