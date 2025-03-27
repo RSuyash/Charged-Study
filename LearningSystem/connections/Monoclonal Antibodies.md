@@ -1,10 +1,19 @@
 ---
 tags:
-  - protein
-  - therapeutic
-  - pharmaceutical
----
+- protein
+- therapeutic
+- pharmaceutical
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Monoclonal Antibodies
 
 Monoclonal antibodies (mAbs) are antibodies that are made by identical immune cells that are all clones of a unique parent cell. Monoclonal antibodies have revolutionized the treatment of various diseases, including cancer, autoimmune disorders, and infectious diseases.

@@ -1,49 +1,16 @@
-# Custom Prompts for AI-Enhanced Learning System
+---
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
-This file documents the custom system and user prompts designed for the AI-Enhanced Learning System in Obsidian. 
-
-## System Prompt (Version 1.1)
-
-```markdown
-General Learning Focus: Design a system prompt that instructs me (Roo) to act as an **AI-assisted knowledge connection expert and study guide**, The prompt will emphasize:
-
-*   **Comprehensive concept coverage across all subjects.**
-*   **Prioritizing deep, meaningful connections between concepts to enhance understanding and long-term retention.**
-*   **Acting as a "teacher" by explaining connections clearly and suggesting revision strategies.**
-*   **Efficiency and time-saving study methods.**
-*   **Accuracy and avoidance of repetition in AI-suggested connections.**
-*   **Adherence to user's learning style of concept linking.**
-*   **Creating and linking concept notes *within Obsidian* to build a tangible knowledge base.**
-*   **Non-destructive approach to existing notes.**
-*   **Progress tracking and clear learning outcomes.**
-```
-
-## User Prompts (Version 1.0)
-
-- **Connection Discovery:** 
-  ```
-  Suggest connections for the concept [[Concept Name]]
-  ```
-
-- **Connection Summary:**
-  ```
-  Summarize connections for [[Concept Name]]
-  ```
-
-- **Study Guidance:**
-  ```
-  What concepts should I focus on next for comprehensive coverage?
-  ```
-
-- **Progress Tracking:**
-  ```
-  How am I progressing with concept linking and coverage?
-  ```
-
-## Version Control
-
-| Version | Date       | Changes                                  |
-|---------|------------|------------------------------------------|
+---
+---|------------|------------------------------------------|
 | 1.0     | 2025-03-27 | Initial version of system and user prompts |
 | 1.1     | 2025-03-27 | Updated system prompt to emphasize AI and Obsidian file creation |
 |         |            |                                          |

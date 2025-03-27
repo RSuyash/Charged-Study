@@ -1,8 +1,24 @@
 ---
-tags: [pharmaceutical, regulation, standards, quality control]
-aliases: [Pharmacopeia, Drug Standards, Official Compendia]
----
+tags:
+- pharmaceutical
+- regulation
+- standards
+- quality control
+aliases:
+- Pharmacopeia
+- Drug Standards
+- Official Compendia
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # 4.5.1 Introduction to Indian and International Pharmacopoeias
 
 ## What is a Pharmacopoeia?

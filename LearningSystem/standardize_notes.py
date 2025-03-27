@@ -1,9 +1,8 @@
 import os
 import glob
-import frontmatter
+import yaml
 from datetime import date
 import git
-import yaml
 
 # Define default values for new properties
 DEFAULT_VALUES = {
@@ -24,15 +23,31 @@ def standardize_notes(vault_path):
     for md_file in md_files:
         try:
             with open(md_file, 'r', encoding='utf-8') as f:
-                post = frontmatter.load(f)
+                content = f.read()
+
+            # Split the file into frontmatter and content
+            parts = content.split('---', 2)
+            if len(parts) < 3:
+                print(f"No frontmatter found in {md_file}")
+                continue
+
+            frontmatter_str = parts[1].strip()
+            content_str = parts[2].strip()
+
+            # Load the frontmatter using yaml
+            metadata = yaml.safe_load(frontmatter_str) if frontmatter_str else {}
 
             # Add missing properties with default values
             for key, value in DEFAULT_VALUES.items():
-                if key not in post.metadata:
-                    post.metadata[key] = value
+                if key not in metadata:
+                    metadata[key] = value
+
+            # Write the modified frontmatter back to the file
+            new_frontmatter_str = yaml.dump(metadata, sort_keys=False)
+            new_content = f"---\n{new_frontmatter_str}\n---\n{content_str}"
 
             with open(md_file, 'w', encoding='utf-8') as f:
-                f.write(frontmatter.dumps(post))
+                f.write(new_content)
 
             print(f"Standardized properties in: {md_file}")
 
