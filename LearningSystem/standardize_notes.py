@@ -45,6 +45,9 @@ def standardize_notes(vault_path):
             # Remove non-alphanumeric characters from lines starting with "Type:", "Status:", or "Purpose:"
             frontmatter_str = re.sub(r"(^|\n)(Type:|Status:|Purpose:|Related:|Parent:|Tags:|Products:)\s*[^\w\s:]+", r"\1\2 ", frontmatter_str)
 
+            # Remove non-alphanumeric characters from lines starting with "Tags:", "Products:"
+            frontmatter_str = re.sub(r"(^|\n)(Tags:|Products:)\s*[^\w\s\[\],#]+", r"\1\2 ", frontmatter_str)
+
             # Load the frontmatter using yaml
             try:
                 metadata = yaml.safe_load(frontmatter_str) if frontmatter_str else {}
