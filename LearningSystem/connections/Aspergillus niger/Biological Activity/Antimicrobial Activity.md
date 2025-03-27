@@ -40,6 +40,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Antimicrobial Activity
 
 This note describes the biological activity of compounds that inhibit the growth of or kill microorganisms, including bacteria (antibacterial), fungi (antifungal), viruses (antiviral), and protozoa. Many [[Secondary Metabolites]] exhibit antimicrobial properties, often as a defense mechanism for the producing organism.

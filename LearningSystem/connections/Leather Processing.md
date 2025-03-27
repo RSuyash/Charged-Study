@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Leather Processing
 
 Leather processing is the transformation of animal hides and skins into leather, a durable and versatile material used for various products.

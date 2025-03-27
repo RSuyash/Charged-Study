@@ -40,6 +40,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Antioxidant Activity
 
 This note describes the biological activity of compounds that inhibit oxidation. Oxidation is a chemical reaction that can produce free radicals, leading to chain reactions that may damage cells (oxidative stress). Antioxidants terminate these chain reactions by removing free radical intermediates or inhibiting other oxidation reactions.

@@ -35,6 +35,7 @@ tags:
 type: Concept
 ---
 
+
 # Solid-State Fermentation (SSF)
 
 Solid-state fermentation (SSF) is a fermentation technique where microorganisms are grown on a solid substrate in the absence or near-absence of free water. It is used in industrial biotechnology for the production of various enzymes, metabolites, and biopharmaceuticals.

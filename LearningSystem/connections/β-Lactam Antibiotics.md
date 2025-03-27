@@ -35,6 +35,7 @@ tags:
 - secondary metabolite
 ---
 
+
 # β-Lactam Antibiotics
 
 β-Lactam antibiotics are a class of antibiotics characterized by the presence of a β-lactam ring in their molecular structure. They primarily inhibit bacterial cell wall synthesis, leading to cell lysis and death.

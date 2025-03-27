@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Detergents
 
 Detergents are cleaning products composed of surfactants that lower the surface tension of water, allowing it to spread more easily and remove dirt and grease.

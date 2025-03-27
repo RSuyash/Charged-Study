@@ -41,6 +41,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Meroterpenoids and Prenylation
 
 This note describes secondary metabolites with mixed biosynthetic origins, specifically those combining **isoprenoid (terpenoid)** units with structures derived from other pathways (e.g., polyketide, shikimate, amino acid).

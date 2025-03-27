@@ -42,6 +42,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Prompt Examples for Creating Connections (for Roo)
 
 This document provides examples of how to ask Roo to create different kinds of connections between notes in this Obsidian vault. Refer to [[ROO_CONNECTION_GUIDELINES]] for the underlying strategies.

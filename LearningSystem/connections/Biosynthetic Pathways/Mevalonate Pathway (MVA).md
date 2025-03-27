@@ -44,6 +44,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Mevalonate Pathway (MVA)
 
 The Mevalonate (MVA) Pathway is a key metabolic pathway that produces Isopentenyl Pyrophosphate (IPP) and Dimethylallyl Pyrophosphate (DMAPP), the universal five-carbon precursors for [[Terpenoids]] and steroids.

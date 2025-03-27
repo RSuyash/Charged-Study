@@ -40,6 +40,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Anticancer Activity
 
 This note describes the biological activity of compounds used in the treatment of cancer (antineoplastic agents). These compounds interfere with the growth, proliferation, or survival of cancer cells through various mechanisms. Many important chemotherapy drugs are derived from or inspired by [[Secondary Metabolites]].

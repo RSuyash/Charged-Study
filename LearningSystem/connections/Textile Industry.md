@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Textile Industry
 
 The textile industry is concerned with the design, production, and distribution of yarn, cloth, and clothing.

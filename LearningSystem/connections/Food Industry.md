@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Food Industry
 
 The food industry is a global collective of diverse businesses that supply most of the food energy consumed by the world's population.

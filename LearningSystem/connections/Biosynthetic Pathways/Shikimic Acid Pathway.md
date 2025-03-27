@@ -43,6 +43,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Shikimic Acid Pathway
 
 The Shikimic Acid Pathway is a crucial metabolic route used by bacteria, archaea, fungi, algae, protozoans, and plants for the biosynthesis of folates and aromatic amino acids (phenylalanine, tyrosine, and tryptophan).

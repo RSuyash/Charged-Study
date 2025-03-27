@@ -36,6 +36,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 ---|------------|------------------------------------------|
 | 1.0     | 2025-03-27 | Initial version of system and user prompts |
 | 1.1     | 2025-03-27 | Updated system prompt to emphasize AI and Obsidian file creation |

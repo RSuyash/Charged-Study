@@ -40,6 +40,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Biosynthetic Pathways Overview
 
 This note serves as an entry point for understanding the various biosynthetic pathways responsible for producing [[Secondary Metabolites]]. These pathways represent the complex enzymatic steps organisms use to construct diverse chemical structures from simpler precursors.

@@ -40,6 +40,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Anti-inflammatory Activity
 
 This note describes the biological activity of compounds that reduce inflammation or swelling. Inflammation is a complex biological response of body tissues to harmful stimuli, such as pathogens, damaged cells, or irritants. Anti-inflammatory agents work by inhibiting various mediators or pathways involved in the inflammatory process.

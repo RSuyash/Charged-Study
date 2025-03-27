@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Bacillus subtilis
 
 *Bacillus subtilis* is a Gram-positive, spore-forming bacterium commonly found in soil and vegetation. It is widely used in industrial biotechnology for the production of various enzymes, including proteases, and other metabolites.

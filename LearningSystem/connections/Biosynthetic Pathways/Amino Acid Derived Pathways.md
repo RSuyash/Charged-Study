@@ -44,6 +44,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Amino Acid Derived Pathways
 
 This represents a broad category of biosynthetic pathways that utilize amino acids as primary precursors for synthesizing a wide range of [[Secondary Metabolites]], most notably the diverse group of [[Alkaloids]]. Unlike the more defined pathways like Shikimic Acid or MVA/MEP, these routes are highly varied depending on the starting amino acid and the target metabolite.

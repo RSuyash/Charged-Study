@@ -41,6 +41,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Roo: Obsidian Connection Guidelines
 
 This document outlines the preferred methods for creating connections between notes in this Obsidian vault, ensuring logical structure and consistency.

@@ -40,6 +40,7 @@ tags:
 type: Concept
 ---
 
+
 # Protease Connections and Networks in Industrial Biotechnology
 
 This note outlines the key aspects of protease production and applications in [[Enzyme Production.md]] within industrial biotechnology.

@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Aspergillus niger
 
 *Aspergillus niger* is a filamentous fungus widely used in industrial biotechnology for the production of various enzymes, including proteases, citric acid, and pectinases. It is generally recognized as safe (GRAS) and has a high secretion capacity.

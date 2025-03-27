@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Research and Diagnostics
 
 Research and diagnostics encompass a wide range of activities aimed at understanding biological processes and identifying diseases or conditions.

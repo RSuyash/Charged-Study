@@ -35,6 +35,7 @@ tags:
 - pharmaceutical
 ---
 
+
 # Monoclonal Antibodies
 
 Monoclonal antibodies (mAbs) are antibodies that are made by identical immune cells that are all clones of a unique parent cell. Monoclonal antibodies have revolutionized the treatment of various diseases, including cancer, autoimmune disorders, and infectious diseases.

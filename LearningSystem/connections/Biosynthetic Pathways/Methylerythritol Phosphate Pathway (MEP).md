@@ -44,6 +44,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Methylerythritol Phosphate Pathway (MEP)
 
 The Methylerythritol Phosphate (MEP) Pathway, also known as the non-mevalonate pathway or the DOXP/MEP pathway, is an alternative metabolic route for the synthesis of Isopentenyl Pyrophosphate (IPP) and Dimethylallyl Pyrophosphate (DMAPP), the precursors for [[Terpenoids]].

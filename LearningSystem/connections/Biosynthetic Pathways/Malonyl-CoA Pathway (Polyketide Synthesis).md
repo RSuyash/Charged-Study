@@ -43,6 +43,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Malonyl-CoA Pathway (Polyketide Synthesis)
 
 The Malonyl-CoA Pathway is central to the biosynthesis of fatty acids and a structurally diverse class of [[Secondary Metabolites]] known as [[Polyketides]]. It involves the sequential condensation of activated carboxylic acid units, typically Acetyl-CoA (as a starter unit) and Malonyl-CoA (as extender units).

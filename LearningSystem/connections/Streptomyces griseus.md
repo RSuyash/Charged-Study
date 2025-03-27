@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Streptomyces griseus
 
 *Streptomyces griseus* is a filamentous bacterium belonging to the Actinobacteria class. It is known for producing a wide range of extracellular enzymes, including proteases, and antibiotics.

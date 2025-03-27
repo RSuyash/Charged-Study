@@ -41,6 +41,7 @@ tags:
 - PB_Unit_I
 ---
 
+
 # Antimalarial Activity
 
 This note describes the biological activity of compounds that are effective against malaria parasites (*Plasmodium* species). Malaria is a life-threatening disease transmitted through the bites of infected female *Anopheles* mosquitoes. Antimalarial drugs target different stages of the parasite's life cycle.

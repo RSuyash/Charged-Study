@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Pharmaceutical Industry
 
 The pharmaceutical industry discovers, develops, produces, and markets drugs or pharmaceutical drugs for use as medications to be administered (or self-administered) to patients, with the aim to cure them, vaccinate them, or alleviate the symptoms.

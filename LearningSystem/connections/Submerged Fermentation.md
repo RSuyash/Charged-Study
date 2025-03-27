@@ -35,6 +35,7 @@ tags:
 type: Concept
 ---
 
+
 # Submerged Fermentation (SmF)
 
 Submerged fermentation (SmF) is a fermentation technique where microorganisms are grown in a liquid medium. It is widely used in industrial biotechnology for the production of various enzymes, metabolites, and biopharmaceuticals.

@@ -36,6 +36,7 @@ tags:
 type: Concept
 ---
 
+
 # Bioremediation
 
 Bioremediation is a biotechnology-based approach that utilizes biological systems, primarily microorganisms, to remove, degrade, or detoxify environmental contaminants.
