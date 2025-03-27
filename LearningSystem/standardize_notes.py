@@ -43,7 +43,7 @@ def standardize_notes(vault_path):
             frontmatter_str = re.sub(r"-\s*\[\[(.*?)\]\]:\s*\"(.*?)\"", r"- '\1': \"\2\"", frontmatter_str)
 
             # Remove non-alphanumeric characters from lines starting with "Type:", "Status:", or "Purpose:"
-            frontmatter_str = re.sub(r"(^|\n)(Type:|Status:|Purpose:|Related:|Parent:)\s*[^\w\s:]+", r"\1\2 ", frontmatter_str)
+            frontmatter_str = re.sub(r"(^|\n)(Type:|Status:|Purpose:|Related:|Parent:|Tags:|Products:)\s*[^\w\s:]+", r"\1\2 ", frontmatter_str)
 
             # Load the frontmatter using yaml
             try:
