@@ -1,13 +1,22 @@
-, ---
-connections:
-  - [[Linked Concept 1]]: "Relationship description"
-  - [[Linked Concept 2]]: "Another relationship"
-review_dates:
-  - 2025-03-27: "Initial creation"
-  - 2025-03-29: "Next review"
-coverage: 0.0
 ---
+connections:
+- Linked Concept 1: \"Relationship description\"
+- Linked Concept 2: \"Another relationship\"
+review_dates:
+- 2025-03-27: Initial creation
+- 2025-03-29: Next review
+coverage: 0.0
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # [[Concept Title]]
 
 ## Definition

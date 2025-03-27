@@ -1,14 +1,23 @@
 ---
 connections:
-  - [[Primary Metabolites]]: "Key differences in function, production, etc."
-  - [[Pharmaceutical Biotechnology]]: "Significance and applications in pharmaceuticals"
-  - [[Industrial Biotechnology]]: "Production and optimization in industrial settings"
-  - [[Alkaloids]]: "Classification as a type of Secondary Metabolite" 
+- Primary Metabolites: \"Key differences in function, production, etc.\"
+- Pharmaceutical Biotechnology: \"Significance and applications in pharmaceuticals\"
+- Industrial Biotechnology: \"Production and optimization in industrial settings\"
+- Alkaloids: \"Classification as a type of Secondary Metabolite\"
 review_dates:
-  - 2025-03-27: "Initial creation"
+- 2025-03-27: Initial creation
 coverage: 0.0
----
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Secondary Metabolites
 =======
 

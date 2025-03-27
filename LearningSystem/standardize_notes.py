@@ -38,6 +38,9 @@ def standardize_notes(vault_path):
             # Fix YAML syntax errors
             frontmatter_str = re.sub(r"\*\*Type:\*\*", "Type:", frontmatter_str)
 
+            # Convert list keys to strings
+            frontmatter_str = re.sub(r"-\s*\[\[(.*?)\]\]:\s*\"(.*?)\"", r"- '\1': \"\2\"", frontmatter_str)
+
             # Load the frontmatter using yaml
             try:
                 metadata = yaml.safe_load(frontmatter_str) if frontmatter_str else {}

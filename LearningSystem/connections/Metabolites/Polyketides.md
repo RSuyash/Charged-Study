@@ -1,27 +1,40 @@
 ---
 connections:
-  - [[Secondary Metabolites]]: "Type of secondary metabolite"
-  - [[Sources of Secondary Metabolites]]: "Distribution and sources of polyketides"
-  - [[Fungal Sources of Secondary Metabolites]]: "Detailed list of fungal sources of polyketides"
-  - [[Bacterial Sources of Secondary Metabolites]]: "Detailed list of bacterial sources of polyketides"
-  - [[Biosynthetic Pathways/Malonyl-CoA Pathway (Polyketide Synthesis)]]: "Biosynthetic origin via PKS"
-  - "[[Phenolic Compounds]]: Type III PKS involved in flavonoid (phenolic) biosynthesis"
-  - "[[Glycosides]]: Can be glycosylated (e.g., Anthraquinone Glycosides)"
-  - "[[Biological Activity/Antimicrobial Activity]]: Major source of antibiotics and antifungals"
-  - "[[Biological Activity/Anticancer Activity]]: Some exhibit anticancer properties (e.g., Anthracyclines)"
+- Secondary Metabolites: \"Type of secondary metabolite\"
+- Sources of Secondary Metabolites: \"Distribution and sources of polyketides\"
+- Fungal Sources of Secondary Metabolites: \"Detailed list of fungal sources of polyketides\"
+- Bacterial Sources of Secondary Metabolites: \"Detailed list of bacterial sources
+    of polyketides\"
+- Biosynthetic Pathways/Malonyl-CoA Pathway (Polyketide Synthesis): \"Biosynthetic
+    origin via PKS\"
+- '[[Phenolic Compounds]]: Type III PKS involved in flavonoid (phenolic) biosynthesis'
+- '[[Glycosides]]: Can be glycosylated (e.g., Anthraquinone Glycosides)'
+- '[[Biological Activity/Antimicrobial Activity]]: Major source of antibiotics and
+  antifungals'
+- '[[Biological Activity/Anticancer Activity]]: Some exhibit anticancer properties
+  (e.g., Anthracyclines)'
 review_dates:
-  - 2025-03-27: "Initial creation"
+- 2025-03-27: Initial creation
 coverage: 0.0
 tags:
-  - concept
-  - metabolite
-  - polyketide
-  - classification
-  - source
-  - pharmaceutical_biotechnology
-  - PB_Unit_I
----
+- concept
+- metabolite
+- polyketide
+- classification
+- source
+- pharmaceutical_biotechnology
+- PB_Unit_I
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Polyketides
 
 ## Overview

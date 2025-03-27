@@ -1,29 +1,44 @@
 ---
 connections:
-  - [[Secondary Metabolites]]: "Type of secondary metabolite"
-  - [[Sources of Secondary Metabolites]]: "Distribution and sources of terpenoids"
-  - [[Plant Sources of Secondary Metabolites]]: "Detailed list of plant sources of terpenoids"
-  - [[Biosynthetic Pathways/Mevalonate Pathway (MVA)]]: "Biosynthetic origin (cytoplasmic)"
-  - [[Biosynthetic Pathways/Methylerythritol Phosphate Pathway (MEP)]]: "Biosynthetic origin (plastidial/bacterial)"
-  - "[[Structural Features/Meroterpenoids and Prenylation]]: Can be combined with other structures (prenylation)"
-  - "[[Glycosides]]: Can be glycosylated (e.g., Saponins, Cardiac Glycosides)"
-  - "[[Biological Activity/Antimicrobial Activity]]: Many exhibit antimicrobial properties (esp. in Essential Oils)"
-  - "[[Biological Activity/Antioxidant Activity]]: Some exhibit antioxidant properties (e.g., Carotenoids, Tocopherols)"
-  - "[[Biological Activity/Anti-inflammatory Activity]]: Some exhibit anti-inflammatory properties (e.g., Limonene)"
-  - "[[Biological Activity/Anticancer Activity]]: Some exhibit anticancer properties (e.g., Taxol)"
+- Secondary Metabolites: \"Type of secondary metabolite\"
+- Sources of Secondary Metabolites: \"Distribution and sources of terpenoids\"
+- Plant Sources of Secondary Metabolites: \"Detailed list of plant sources of terpenoids\"
+- Biosynthetic Pathways/Mevalonate Pathway (MVA): \"Biosynthetic origin (cytoplasmic)\"
+- Biosynthetic Pathways/Methylerythritol Phosphate Pathway (MEP): \"Biosynthetic origin
+    (plastidial/bacterial)\"
+- '[[Structural Features/Meroterpenoids and Prenylation]]: Can be combined with other
+  structures (prenylation)'
+- '[[Glycosides]]: Can be glycosylated (e.g., Saponins, Cardiac Glycosides)'
+- '[[Biological Activity/Antimicrobial Activity]]: Many exhibit antimicrobial properties
+  (esp. in Essential Oils)'
+- '[[Biological Activity/Antioxidant Activity]]: Some exhibit antioxidant properties
+  (e.g., Carotenoids, Tocopherols)'
+- '[[Biological Activity/Anti-inflammatory Activity]]: Some exhibit anti-inflammatory
+  properties (e.g., Limonene)'
+- '[[Biological Activity/Anticancer Activity]]: Some exhibit anticancer properties
+  (e.g., Taxol)'
 review_dates:
-  - 2025-03-27: "Initial creation"
+- 2025-03-27: Initial creation
 coverage: 0.0
 tags:
-  - concept
-  - metabolite
-  - terpenoid
-  - classification
-  - source
-  - pharmaceutical_biotechnology
-  - PB_Unit_I
----
+- concept
+- metabolite
+- terpenoid
+- classification
+- source
+- pharmaceutical_biotechnology
+- PB_Unit_I
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Terpenoids
 
 ## Overview

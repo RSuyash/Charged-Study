@@ -1,25 +1,38 @@
 ---
 connections:
-  - [[Secondary Metabolites]]: "Type of secondary metabolite"
-  - [[Sources of Secondary Metabolites]]: "Distribution and sources of essential oils"
-  - [[Plant Sources of Secondary Metabolites]]: "Detailed list of plant sources of essential oils"
-  - [[Terpenoids]]: "Major components of essential oils"
-  - [[Biosynthetic Pathways/Mevalonate Pathway (MVA)]]: "Biosynthetic origin of terpenoid components"
-  - [[Biosynthetic Pathways/Methylerythritol Phosphate Pathway (MEP)]]: "Biosynthetic origin of terpenoid components"
-  - "[[Biological Activity/Antimicrobial Activity]]: Widely known for antimicrobial properties"
+- Secondary Metabolites: \"Type of secondary metabolite\"
+- Sources of Secondary Metabolites: \"Distribution and sources of essential oils\"
+- Plant Sources of Secondary Metabolites: \"Detailed list of plant sources of essential
+    oils\"
+- Terpenoids: \"Major components of essential oils\"
+- Biosynthetic Pathways/Mevalonate Pathway (MVA): \"Biosynthetic origin of terpenoid
+    components\"
+- Biosynthetic Pathways/Methylerythritol Phosphate Pathway (MEP): \"Biosynthetic origin
+    of terpenoid components\"
+- '[[Biological Activity/Antimicrobial Activity]]: Widely known for antimicrobial
+  properties'
 review_dates:
-  - 2025-03-27: "Initial creation"
+- 2025-03-27: Initial creation
 coverage: 0.0
 tags:
-  - concept
-  - metabolite
-  - essential_oil
-  - classification
-  - source
-  - pharmaceutical_biotechnology
-  - PB_Unit_I
----
+- concept
+- metabolite
+- essential_oil
+- classification
+- source
+- pharmaceutical_biotechnology
+- PB_Unit_I
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Essential Oils
 
 ## Overview

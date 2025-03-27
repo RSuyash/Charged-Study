@@ -1,21 +1,30 @@
 ---
 connections:
-  - [[Sources of Secondary Metabolites]]: "Detailed list of fungal-derived secondary metabolites"
-  - [[Secondary Metabolites]]: "Fungal sources of secondary metabolites"
-  - [[Polyketides]]: "Fungal sources of polyketides"
-  - [[Alkaloids]]: "Fungal sources of alkaloids"
+- Sources of Secondary Metabolites: \"Detailed list of fungal-derived secondary metabolites\"
+- Secondary Metabolites: \"Fungal sources of secondary metabolites\"
+- Polyketides: \"Fungal sources of polyketides\"
+- Alkaloids: \"Fungal sources of alkaloids\"
 review_dates:
-  - 2025-03-27: "Initial creation"
+- 2025-03-27: Initial creation
 coverage: 0.0
 tags:
-  - concept
-  - source
-  - fungi
-  - metabolite
-  - pharmaceutical_biotechnology
-  - PB_Unit_I
----
+- concept
+- source
+- fungi
+- metabolite
+- pharmaceutical_biotechnology
+- PB_Unit_I
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Fungal Sources of Secondary Metabolites
 
 This note details the various fungal species that produce significant secondary metabolites, highlighting their importance in medicine, industry, and ecology.

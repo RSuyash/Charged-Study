@@ -1,26 +1,36 @@
 ---
 connections:
-  - [[Secondary Metabolites]]: "Type of secondary metabolite"
-  - [[Sources of Secondary Metabolites]]: "Distribution and sources of glycosides"
-  - [[Plant Sources of Secondary Metabolites]]: "Detailed list of plant sources of glycosides"
-  - [[Phenolic Compounds]]: "Common aglycone source (e.g., Flavonoid Glycosides)"
-  - [[Terpenoids]]: "Aglycone source (e.g., Cardiac Glycosides, Saponins)"
-  - [[Alkaloids]]: "Aglycone source (less common, e.g., Solanine)"
-  - [[Polyketides]]: "Aglycone source (e.g., Anthraquinone Glycosides)"
-  - [[Biosynthetic Pathways/Amino Acid Derived Pathways]]: "Aglycone precursor source (e.g., Cyanogenic Glycosides, Glucosinolates)"
+- Secondary Metabolites: \"Type of secondary metabolite\"
+- Sources of Secondary Metabolites: \"Distribution and sources of glycosides\"
+- Plant Sources of Secondary Metabolites: \"Detailed list of plant sources of glycosides\"
+- Phenolic Compounds: \"Common aglycone source (e.g., Flavonoid Glycosides)\"
+- Terpenoids: \"Aglycone source (e.g., Cardiac Glycosides, Saponins)\"
+- Alkaloids: \"Aglycone source (less common, e.g., Solanine)\"
+- Polyketides: \"Aglycone source (e.g., Anthraquinone Glycosides)\"
+- Biosynthetic Pathways/Amino Acid Derived Pathways: \"Aglycone precursor source (e.g.,
+    Cyanogenic Glycosides, Glucosinolates)\"
 review_dates:
-  - 2025-03-27: "Initial creation"
+- 2025-03-27: Initial creation
 coverage: 0.0
 tags:
-  - concept
-  - metabolite
-  - glycoside
-  - classification
-  - source
-  - pharmaceutical_biotechnology
-  - PB_Unit_I
----
+- concept
+- metabolite
+- glycoside
+- classification
+- source
+- pharmaceutical_biotechnology
+- PB_Unit_I
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Glycosides
 
 ## Overview

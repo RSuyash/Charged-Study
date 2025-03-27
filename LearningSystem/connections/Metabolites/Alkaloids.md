@@ -1,27 +1,42 @@
 ---
 connections:
-  - [[Secondary Metabolites]]: "Type of secondary metabolite - understanding alkaloids as a key class within specialized metabolism"
-  - [[Sources of Secondary Metabolites]]: "Distribution and sources of alkaloids across different organisms"
-  - [[Plant Sources of Secondary Metabolites]]: "Detailed list of plant sources of alkaloids"
-  - [[Biosynthetic Pathways/Amino Acid Derived Pathways]]: "Biosynthetic origin from amino acids"
-  - "[[Structural Features/Meroterpenoids and Prenylation]]: Some alkaloids incorporate terpenoid units (e.g., ergot alkaloids)"
-  - "[[Glycosides]]: Can be glycosylated (e.g., Solanine)"
-  - "[[Biological Activity/Antimicrobial Activity]]: Many exhibit antimicrobial properties"
-  - "[[Biological Activity/Anti-inflammatory Activity]]: Some exhibit anti-inflammatory properties (e.g., Colchicine)"
-  - "[[Biological Activity/Anticancer Activity]]: Significant source of anticancer drugs (e.g., Vincristine, Camptothecins)"
+- Secondary Metabolites: \"Type of secondary metabolite - understanding alkaloids
+    as a key class within specialized metabolism\"
+- Sources of Secondary Metabolites: \"Distribution and sources of alkaloids across
+    different organisms\"
+- Plant Sources of Secondary Metabolites: \"Detailed list of plant sources of alkaloids\"
+- Biosynthetic Pathways/Amino Acid Derived Pathways: \"Biosynthetic origin from amino
+    acids\"
+- '[[Structural Features/Meroterpenoids and Prenylation]]: Some alkaloids incorporate
+  terpenoid units (e.g., ergot alkaloids)'
+- '[[Glycosides]]: Can be glycosylated (e.g., Solanine)'
+- '[[Biological Activity/Antimicrobial Activity]]: Many exhibit antimicrobial properties'
+- '[[Biological Activity/Anti-inflammatory Activity]]: Some exhibit anti-inflammatory
+  properties (e.g., Colchicine)'
+- '[[Biological Activity/Anticancer Activity]]: Significant source of anticancer drugs
+  (e.g., Vincristine, Camptothecins)'
 review_dates:
-  - 2025-03-27: "Initial creation"
+- 2025-03-27: Initial creation
 coverage: 0.0
 tags:
-  - concept
-  - metabolite
-  - alkaloid
-  - classification
-  - source
-  - pharmaceutical_biotechnology
-  - PB_Unit_I
----
+- concept
+- metabolite
+- alkaloid
+- classification
+- source
+- pharmaceutical_biotechnology
+- PB_Unit_I
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Alkaloids
 
 ## Overview

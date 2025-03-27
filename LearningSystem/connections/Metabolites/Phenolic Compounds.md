@@ -1,28 +1,42 @@
 ---
 connections:
-  - [[Secondary Metabolites]]: "Type of secondary metabolite"
-  - [[Sources of Secondary Metabolites]]: "Distribution and sources of phenolic compounds"
-  - [[Plant Sources of Secondary Metabolites]]: "Detailed list of plant sources of phenolic compounds"
-  - [[Biosynthetic Pathways/Shikimic Acid Pathway]]: "Primary biosynthetic origin"
-  - [[Biosynthetic Pathways/Malonyl-CoA Pathway (Polyketide Synthesis)]]: "Contributes to some classes (e.g., flavonoids via Type III PKS)"
-  - "[[Structural Features/Meroterpenoids and Prenylation]]: Can be prenylated (structural modification)"
-  - "[[Glycosides]]: Can be glycosylated (structural modification)"
-  - "[[Biological Activity/Antimicrobial Activity]]: Many exhibit antimicrobial properties"
-  - "[[Biological Activity/Antioxidant Activity]]: Major class exhibiting antioxidant properties"
-  - "[[Biological Activity/Anti-inflammatory Activity]]: Many exhibit anti-inflammatory properties"
+- Secondary Metabolites: \"Type of secondary metabolite\"
+- Sources of Secondary Metabolites: \"Distribution and sources of phenolic compounds\"
+- Plant Sources of Secondary Metabolites: \"Detailed list of plant sources of phenolic
+    compounds\"
+- Biosynthetic Pathways/Shikimic Acid Pathway: \"Primary biosynthetic origin\"
+- Biosynthetic Pathways/Malonyl-CoA Pathway (Polyketide Synthesis): \"Contributes
+    to some classes (e.g., flavonoids via Type III PKS)\"
+- '[[Structural Features/Meroterpenoids and Prenylation]]: Can be prenylated (structural
+  modification)'
+- '[[Glycosides]]: Can be glycosylated (structural modification)'
+- '[[Biological Activity/Antimicrobial Activity]]: Many exhibit antimicrobial properties'
+- '[[Biological Activity/Antioxidant Activity]]: Major class exhibiting antioxidant
+  properties'
+- '[[Biological Activity/Anti-inflammatory Activity]]: Many exhibit anti-inflammatory
+  properties'
 review_dates:
-  - 2025-03-27: "Initial creation"
+- 2025-03-27: Initial creation
 coverage: 0.0
 tags:
-  - concept
-  - metabolite
-  - phenolic_compound
-  - classification
-  - source
-  - pharmaceutical_biotechnology
-  - PB_Unit_I
----
+- concept
+- metabolite
+- phenolic_compound
+- classification
+- source
+- pharmaceutical_biotechnology
+- PB_Unit_I
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Phenolic Compounds
 
 ## Overview

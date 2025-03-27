@@ -1,11 +1,21 @@
 ---
 connections:
-  - [[Secondary Metabolites]]: "Type of secondary metabolite - understanding alkaloids as a key class within specialized metabolism"
+- Secondary Metabolites: \"Type of secondary metabolite - understanding alkaloids
+    as a key class within specialized metabolism\"
 review_dates:
-  - 2025-03-27: "Initial creation"
+- 2025-03-27: Initial creation
 coverage: 0.0
----
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
+---
 # Alkaloids
 
 ## Overview
