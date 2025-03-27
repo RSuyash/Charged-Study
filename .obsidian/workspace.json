@@ -11,14 +11,10 @@
             "id": "76e57cb0ce275192",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LearningSystem/connections/Metabolites/Secondary Metabolites.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Secondary Metabolites"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -193,6 +189,17 @@
   },
   "active": "76e57cb0ce275192",
   "lastOpenFiles": [
+    "LearningSystem/connections/Pharmaceutical Industry.md",
+    "LearningSystem/connections/Detergents.md",
+    "LearningSystem/connections/Bacillus subtilis.md",
+    "LearningSystem/connections/Protease.md",
+    "LearningSystem/connections/Textile Industry.md",
+    "Penicillin-Binding Proteins (PBPs).md",
+    "LearningSystem/README.md",
+    "LearningSystem/USER_NEEDS.md",
+    "LearningSystem/STUDY_NEEDS_ESSENTIALS.md",
+    "LearningSystem/connections/Submerged Fermentation.md",
+    "LearningSystem/connections/Metabolites/Secondary Metabolites.md",
     "standardize_md.py",
     "LearningSystem/connections/Biological Activity/Anticancer Activity.md",
     "LearningSystem/connections/Aspergillus niger/Biological Activity/Anti-inflammatory Activity.md",
@@ -206,21 +213,11 @@
     "LearningSystem/connections/Research and Diagnostics.md",
     "LearningSystem/connections/Bioremediation.md",
     "LearningSystem/connections/Aspergillus niger.md",
-    "LearningSystem/connections/Pharmaceutical Industry.md",
-    "LearningSystem/connections/Textile Industry.md",
     "LearningSystem/connections/Leather Processing.md",
     "LearningSystem/connections/Food Industry.md",
     "LearningSystem/connections/Sources/Plant Sources of Secondary Metabolites.md",
-    "LearningSystem/connections/Detergents.md",
-    "Penicillin-Binding Proteins (PBPs).md",
     "LearningSystem/connections/Solid-State Fermentation.md",
-    "LearningSystem/connections/Submerged Fermentation.md",
     "LearningSystem/connections/Streptomyces griseus.md",
-    "LearningSystem/connections/Bacillus subtilis.md",
-    "LearningSystem/connections/Enzyme Production.md",
-    "LearningSystem/connections/Protease.md",
-    "Protease_Connections.md",
-    "Subjects/Industrial Biotechnology/IB-Unit-III.md",
     "LearningSystem/standardize_notes.py",
     "LearningSystem 1/data/PB-Unit-IV.json",
     "LearningSystem 1/data/PB-Unit-III.json",
@@ -228,7 +225,6 @@
     "LearningSystem 1/data/PB-Unit-I.json",
     "LearningSystem 1/data/master_log.json",
     "LearningSystem 1/data/IB-Unit-IV.json",
-    "LearningSystem 1/data/IB-Unit-III.json",
     "assets/image 11.png",
     "assets/image 2.png",
     "assets/fcell-09-664418-g001.jpg",
