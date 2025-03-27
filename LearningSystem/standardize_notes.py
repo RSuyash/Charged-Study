@@ -35,7 +35,15 @@ def standardize_notes(vault_path):
             content_str = parts[2].strip()
 
             # Load the frontmatter using yaml
-            metadata = yaml.safe_load(frontmatter_str) if frontmatter_str else {}
+            try:
+                metadata = yaml.safe_load(frontmatter_str) if frontmatter_str else {}
+            except yaml.YAMLError as e:
+                print(f"YAML error in {md_file}: {e}")
+                continue
+
+            if not isinstance(metadata, dict):
+                print(f"Invalid frontmatter in {md_file}: Frontmatter is not a dictionary")
+                continue
 
             # Add missing properties with default values
             for key, value in DEFAULT_VALUES.items():
