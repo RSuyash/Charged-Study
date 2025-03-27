@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#polyketide",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +71,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,7 +187,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f6a16c29d2660db4",
+  "active": "af682cd3ecfa1702",
   "lastOpenFiles": [
     "LearningSystem/standardize_notes.py",
     "LearningSystem/standardization_plan.md",

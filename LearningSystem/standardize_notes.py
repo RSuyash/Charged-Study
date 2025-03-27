@@ -3,6 +3,7 @@ import glob
 import yaml
 from datetime import date
 import git
+import re
 
 # Define default values for new properties
 DEFAULT_VALUES = {
@@ -33,6 +34,9 @@ def standardize_notes(vault_path):
 
             frontmatter_str = parts[1].strip()
             content_str = parts[2].strip()
+
+            # Fix YAML syntax errors
+            frontmatter_str = re.sub(r"\*\*Type:\*\*", "Type:", frontmatter_str)
 
             # Load the frontmatter using yaml
             try:
