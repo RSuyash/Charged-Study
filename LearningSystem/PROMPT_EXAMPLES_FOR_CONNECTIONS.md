@@ -2,8 +2,7 @@
 Type: Guideline
 Purpose: Example prompts for requesting different types of connections from Roo (AI
   Assistant).
-Related:
-- - ROO_CONNECTION_GUIDELINES
+Related: ROO_CONNECTION_GUIDELINES
 Date: 2025-03-27
 Tags: null
 Source: ''

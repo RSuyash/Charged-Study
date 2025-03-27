@@ -39,6 +39,27 @@ def standardize_notes(vault_path):
             frontmatter_str = re.sub(r"\*\*(.*?):\*\*", r"\1:", frontmatter_str) # Remove ** around any key
             frontmatter_str = re.sub(r"-\s*\[\[(.*?)\]\]:\s*\"(.*?)\"", r"- '\1': \"\2\"", frontmatter_str) # Fix list keys
 
+            # Remove non-alphanumeric characters from lines starting with "Type:", "Status:", or "Purpose:"
+            frontmatter_str = re.sub(r"(^|\n)(Type:|Status:|Purpose:|Related:|Parent:|Tags:|Products:)\s*[^\w\s:]+", r"\1\2 ", frontmatter_str)
+
+            # Remove non-alphanumeric characters from lines starting with "Tags:", "Products:"
+            frontmatter_str = re.sub(r"(^|\n)(Tags:|Products:)\s*[^\w\s\[\],#]+", r"\1\2 ", frontmatter_str)
+
+            # Remove non-alphanumeric characters from lines starting with "Related:", "Parent:"
+            frontmatter_str = re.sub(r"(^|\n)(Related:|Parent:)\s*[^\w\s\[\],#]+", r"\1\2 ", frontmatter_str)
+
+            # Remove non-alphanumeric characters from lines starting with "Title:", "Definition:", "Tags:", "Products:", "Related:", "Parent:"
+            frontmatter_str = re.sub(r"(^|\n)(Title:|Definition:|Tags:|Products:|Related:|Parent:)\s*[^\w\s:]+", r"\1\2 ", frontmatter_str)
+
+            # Remove non-alphanumeric characters from lines starting with "Title:", "Definition:", "Tags:", "Products:", "Related:", "Parent:"
+            frontmatter_str = re.sub(r"(^|\n)(Title:|Definition:|Tags:|Products:|Related:|Parent:)\s*[^\w\s\[\],#]+", r"\1\2 ", frontmatter_str)
+
+            # Remove non-alphanumeric characters from lines starting with "Title:", "Definition:", "Tags:", "Products:", "Related:", "Parent:", "Status:", "Purpose:"
+            frontmatter_str = re.sub(r"(^|\n)(Title:|Definition:|Tags:|Products:|Related:|Parent:|Status:|Purpose:)\s*[^\w\s\[\],#:\-]+", r"\1\2 ", frontmatter_str)
+
+            # Remove non-alphanumeric characters from lines starting with "Title:", "Definition:", "Tags:", "Products:", "Related:", "Parent:", "Status:", "Purpose:", "Connections:"
+            frontmatter_str = re.sub(r"(^|\n)(Title:|Definition:|Tags:|Products:|Related:|Parent:|Status:|Purpose:|Connections:)\s*[^\w\s\[\],#:\-]+", r"\1\2 ", frontmatter_str)
+
             # Load the frontmatter using yaml
             try:
                 # Attempt to load with safe_load first

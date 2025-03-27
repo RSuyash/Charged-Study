@@ -1,8 +1,7 @@
 ---
 Type: Pathway
 Status: Stub
-Parent:
-- - Biosynthetic Pathways Overview
+Parent: Biosynthetic Pathways Overview
 Products: Isopentenyl Pyrophosphate (IPP), Dimethylallyl Pyrophosphate (DMAPP) ->
   [[Terpenoids]]
 Precursors: Pyruvate, Glyceraldehyde-3-phosphate (G3P)

@@ -1,12 +1,19 @@
-# LearningSystem/connections/Biosynthetic Pathways/Biosynthetic Pathways Overview.md
+---
+Type: Overview
+Status: Stub
+Related: Secondary Metabolites]], [[Metabolites]], [[Sources of Secondary Metabolites]]
+Tags: biochemistry
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Overview
-**Status:** Stub
-**Related:** [[Secondary Metabolites]], [[Metabolites]], [[Sources of Secondary Metabolites]]
-**Tags:** #biochemistry #metabolism #pathway
----
-
 # Biosynthetic Pathways Overview
 
 This note serves as an entry point for understanding the various biosynthetic pathways responsible for producing [[Secondary Metabolites]]. These pathways represent the complex enzymatic steps organisms use to construct diverse chemical structures from simpler precursors.

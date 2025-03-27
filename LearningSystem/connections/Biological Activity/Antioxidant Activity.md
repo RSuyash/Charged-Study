@@ -1,12 +1,19 @@
-# LearningSystem/connections/Biological Activity/Antioxidant Activity.md
+---
+Type: Biological Activity
+Status: Stub
+Related: Secondary Metabolites]], [[Oxidative Stress]] (Potential future note)
+Tags: biological_activity
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Biological Activity
-**Status:** Stub
-**Related:** [[Secondary Metabolites]], [[Oxidative Stress]] (Potential future note)
-**Tags:** #biological_activity #antioxidant #free_radical_scavenging #pharmacology #health
----
-
 # Antioxidant Activity
 
 This note describes the biological activity of compounds that inhibit oxidation. Oxidation is a chemical reaction that can produce free radicals, leading to chain reactions that may damage cells (oxidative stress). Antioxidants terminate these chain reactions by removing free radical intermediates or inhibiting other oxidation reactions.

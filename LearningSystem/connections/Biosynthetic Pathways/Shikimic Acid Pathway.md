@@ -1,15 +1,22 @@
-# LearningSystem/connections/Biosynthetic Pathways/Shikimic Acid Pathway.md
+---
+Type: Pathway
+Status: Stub
+Parent: Biosynthetic Pathways Overview]]
+Products: Phenolic Compounds]], Aromatic Amino Acids (Phenylalanine, Tyrosine, Tryptophan)
+Precursors: Phosphoenolpyruvate (PEP), Erythrose-4-phosphate (E4P)
+Organisms: Plants, Fungi, Bacteria, Archaea
+Tags: biochemistry
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Pathway
-**Status:** Stub
-**Parent:** [[Biosynthetic Pathways Overview]]
-**Products:** [[Phenolic Compounds]], Aromatic Amino Acids (Phenylalanine, Tyrosine, Tryptophan)
-**Precursors:** Phosphoenolpyruvate (PEP), Erythrose-4-phosphate (E4P)
-**Organisms:** Plants, Fungi, Bacteria, Archaea
-**Tags:** #biochemistry #metabolism #pathway #aromatic
----
-
 # Shikimic Acid Pathway
 
 The Shikimic Acid Pathway is a crucial metabolic route used by bacteria, archaea, fungi, algae, protozoans, and plants for the biosynthesis of folates and aromatic amino acids (phenylalanine, tyrosine, and tryptophan).

@@ -1,8 +1,7 @@
 ---
 Type: Biological Activity
 Status: Stub
-Related:
-- - Secondary Metabolites
+Related: Secondary Metabolites
 Tags: null
 Source: ''
 Confidence: Medium

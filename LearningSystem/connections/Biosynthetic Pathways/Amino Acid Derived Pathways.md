@@ -1,15 +1,23 @@
-# LearningSystem/connections/Biosynthetic Pathways/Amino Acid Derived Pathways.md
+---
+Type: Pathway Group
+Status: Stub
+Parent: Biosynthetic Pathways Overview]]
+Products: Alkaloids]], some [[Phenolic Compounds]], Glucosinolates, Cyanogenic Glycosides
+Precursors: Various Amino Acids (e.g., Tryptophan, Tyrosine, Phenylalanine, Lysine,
+  Ornithine, Histidine)
+Organisms: Plants, Fungi, Bacteria, Animals
+Tags: biochemistry
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Pathway Group
-**Status:** Stub
-**Parent:** [[Biosynthetic Pathways Overview]]
-**Products:** [[Alkaloids]], some [[Phenolic Compounds]], Glucosinolates, Cyanogenic Glycosides
-**Precursors:** Various Amino Acids (e.g., Tryptophan, Tyrosine, Phenylalanine, Lysine, Ornithine, Histidine)
-**Organisms:** Plants, Fungi, Bacteria, Animals
-**Tags:** #biochemistry #metabolism #pathway #alkaloid #aminoacid
----
-
 # Amino Acid Derived Pathways
 
 This represents a broad category of biosynthetic pathways that utilize amino acids as primary precursors for synthesizing a wide range of [[Secondary Metabolites]], most notably the diverse group of [[Alkaloids]]. Unlike the more defined pathways like Shikimic Acid or MVA/MEP, these routes are highly varied depending on the starting amino acid and the target metabolite.

@@ -1,12 +1,19 @@
-# LearningSystem/connections/Biological Activity/Anti-inflammatory Activity.md
+---
+Type: Biological Activity
+Status: Stub
+Related: Secondary Metabolites]], [[Inflammation]] (Potential future note)
+Tags: biological_activity
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Biological Activity
-**Status:** Stub
-**Related:** [[Secondary Metabolites]], [[Inflammation]] (Potential future note)
-**Tags:** #biological_activity #anti_inflammatory #pharmacology #health
----
-
 # Anti-inflammatory Activity
 
 This note describes the biological activity of compounds that reduce inflammation or swelling. Inflammation is a complex biological response of body tissues to harmful stimuli, such as pathogens, damaged cells, or irritants. Anti-inflammatory agents work by inhibiting various mediators or pathways involved in the inflammatory process.

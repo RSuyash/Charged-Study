@@ -1,12 +1,20 @@
-# LearningSystem/connections/Structural Features/Meroterpenoids and Prenylation.md
+---
+Type: Concept
+Status: Stub
+Related: Terpenoids]], [[Phenolic Compounds]], [[Alkaloids]], [[Polyketides]], [[Biosynthetic
+  Pathways Overview]]
+Tags: structural_feature
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Concept
-**Status:** Stub
-**Related:** [[Terpenoids]], [[Phenolic Compounds]], [[Alkaloids]], [[Polyketides]], [[Biosynthetic Pathways Overview]]
-**Tags:** #structural_feature #hybrid_metabolite #prenylation #meroterpenoid #biochemistry
----
-
 # Meroterpenoids and Prenylation
 
 This note describes secondary metabolites with mixed biosynthetic origins, specifically those combining **isoprenoid (terpenoid)** units with structures derived from other pathways (e.g., polyketide, shikimate, amino acid).

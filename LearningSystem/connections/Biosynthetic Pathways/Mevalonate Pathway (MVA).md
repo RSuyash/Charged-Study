@@ -1,8 +1,7 @@
 ---
 Type: Pathway
 Status: Stub
-Parent:
-- - Biosynthetic Pathways Overview
+Parent: Biosynthetic Pathways Overview
 Products: Isopentenyl Pyrophosphate (IPP), Dimethylallyl Pyrophosphate (DMAPP) ->
   [[Terpenoids]], Steroids
 Precursors: Acetyl-CoA

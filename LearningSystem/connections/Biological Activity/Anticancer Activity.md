@@ -1,12 +1,19 @@
-# LearningSystem/connections/Biological Activity/Anticancer Activity.md
+---
+Type: Biological Activity
+Status: Stub
+Related: Secondary Metabolites]], [[Cancer Biology]] (Potential future note)
+Tags: biological_activity
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Biological Activity
-**Status:** Stub
-**Related:** [[Secondary Metabolites]], [[Cancer Biology]] (Potential future note)
-**Tags:** #biological_activity #anticancer #antineoplastic #chemotherapy #pharmacology
----
-
 # Anticancer Activity
 
 This note describes the biological activity of compounds used in the treatment of cancer (antineoplastic agents). These compounds interfere with the growth, proliferation, or survival of cancer cells through various mechanisms. Many important chemotherapy drugs are derived from or inspired by [[Secondary Metabolites]].

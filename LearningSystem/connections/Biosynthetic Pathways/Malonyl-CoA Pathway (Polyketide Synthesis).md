@@ -1,15 +1,22 @@
-# LearningSystem/connections/Biosynthetic Pathways/Malonyl-CoA Pathway (Polyketide Synthesis).md
+---
+Type: Pathway
+Status: Stub
+Parent: Biosynthetic Pathways Overview]]
+Products: Polyketides]], Fatty Acids
+Precursors: Acetyl-CoA, Malonyl-CoA (derived from Acetyl-CoA)
+Organisms: Bacteria, Fungi, Plants, some Animals
+Tags: biochemistry
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Pathway
-**Status:** Stub
-**Parent:** [[Biosynthetic Pathways Overview]]
-**Products:** [[Polyketides]], Fatty Acids
-**Precursors:** Acetyl-CoA, Malonyl-CoA (derived from Acetyl-CoA)
-**Organisms:** Bacteria, Fungi, Plants, some Animals
-**Tags:** #biochemistry #metabolism #pathway #polyketide #fattyacid #PKS
----
-
 # Malonyl-CoA Pathway (Polyketide Synthesis)
 
 The Malonyl-CoA Pathway is central to the biosynthesis of fatty acids and a structurally diverse class of [[Secondary Metabolites]] known as [[Polyketides]]. It involves the sequential condensation of activated carboxylic acid units, typically Acetyl-CoA (as a starter unit) and Malonyl-CoA (as extender units).
