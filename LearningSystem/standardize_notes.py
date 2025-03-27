@@ -38,10 +38,12 @@ def standardize_notes(vault_path):
             # Fix YAML syntax errors
             frontmatter_str = re.sub(r"\*\*Type:\*\*", "Type:", frontmatter_str)
             frontmatter_str = re.sub(r"\*\*Status:\*\*", "Status:", frontmatter_str)
+            frontmatter_str = re.sub(r"\*\*Related:\*\*", "Related:", frontmatter_str)
+            frontmatter_str = re.sub(r"\*\*Parent:\*\*", "Parent:", frontmatter_str)
             frontmatter_str = re.sub(r"-\s*\[\[(.*?)\]\]:\s*\"(.*?)\"", r"- '\1': \"\2\"", frontmatter_str)
 
             # Remove non-alphanumeric characters from lines starting with "Type:", "Status:", or "Purpose:"
-            frontmatter_str = re.sub(r"(^|\n)(Type:|Status:|Purpose:)\s*[^\w\s]+", r"\1\2 ", frontmatter_str)
+            frontmatter_str = re.sub(r"(^|\n)(Type:|Status:|Purpose:|Related:|Parent:)\s*[^\w\s:]+", r"\1\2 ", frontmatter_str)
 
             # Load the frontmatter using yaml
             try:
