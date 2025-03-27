@@ -1,12 +1,20 @@
-# LearningSystem/ROO_CONNECTION_GUIDELINES.md
+---
+Type: Guideline
+Purpose: Reference for Roo (AI Assistant) on creating logical connections in this
+  Obsidian vault.
+Date: 2025-03-27
+Tags: null
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Guideline
-**Purpose:** Reference for Roo (AI Assistant) on creating logical connections in this Obsidian vault.
-**Date:** 2025-03-27
-**Tags:** #guideline #roo #connections #obsidian
----
-
 # Roo: Obsidian Connection Guidelines
 
 This document outlines the preferred methods for creating connections between notes in this Obsidian vault, ensuring logical structure and consistency.

@@ -1,12 +1,20 @@
-# LearningSystem/connections/Biological Activity/Antimicrobial Activity.md
+---
+Type: Biological Activity
+Status: Stub
+Related:
+- - Secondary Metabolites
+Tags: null
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Biological Activity
-**Status:** Stub
-**Related:** [[Secondary Metabolites]]
-**Tags:** #biological_activity #antimicrobial #antibiotic #antifungal #antiviral #pharmacology
----
-
 # Antimicrobial Activity
 
 This note describes the biological activity of compounds that inhibit the growth of or kill microorganisms, including bacteria (antibacterial), fungi (antifungal), viruses (antiviral), and protozoa. Many [[Secondary Metabolites]] exhibit antimicrobial properties, often as a defense mechanism for the producing organism.

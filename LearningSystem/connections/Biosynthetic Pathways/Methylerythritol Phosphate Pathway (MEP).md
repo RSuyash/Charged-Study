@@ -1,15 +1,24 @@
-# LearningSystem/connections/Biosynthetic Pathways/Methylerythritol Phosphate Pathway (MEP).md
+---
+Type: Pathway
+Status: Stub
+Parent:
+- - Biosynthetic Pathways Overview
+Products: Isopentenyl Pyrophosphate (IPP), Dimethylallyl Pyrophosphate (DMAPP) ->
+  [[Terpenoids]]
+Precursors: Pyruvate, Glyceraldehyde-3-phosphate (G3P)
+Location: Plastids (Plants, Algae), many Bacteria
+Tags: null
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Pathway
-**Status:** Stub
-**Parent:** [[Biosynthetic Pathways Overview]]
-**Products:** Isopentenyl Pyrophosphate (IPP), Dimethylallyl Pyrophosphate (DMAPP) -> [[Terpenoids]]
-**Precursors:** Pyruvate, Glyceraldehyde-3-phosphate (G3P)
-**Location:** Plastids (Plants, Algae), many Bacteria
-**Tags:** #biochemistry #metabolism #pathway #isoprenoid #terpenoid #non-mevalonate
----
-
 # Methylerythritol Phosphate Pathway (MEP)
 
 The Methylerythritol Phosphate (MEP) Pathway, also known as the non-mevalonate pathway or the DOXP/MEP pathway, is an alternative metabolic route for the synthesis of Isopentenyl Pyrophosphate (IPP) and Dimethylallyl Pyrophosphate (DMAPP), the precursors for [[Terpenoids]].

@@ -1,13 +1,22 @@
-# LearningSystem/PROMPT_EXAMPLES_FOR_CONNECTIONS.md
+---
+Type: Guideline
+Purpose: Example prompts for requesting different types of connections from Roo (AI
+  Assistant).
+Related:
+- - ROO_CONNECTION_GUIDELINES
+Date: 2025-03-27
+Tags: null
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Guideline
-**Purpose:** Example prompts for requesting different types of connections from Roo (AI Assistant).
-**Related:** [[ROO_CONNECTION_GUIDELINES]]
-**Date:** 2025-03-27
-**Tags:** #guideline #roo #connections #obsidian #prompts
----
-
 # Prompt Examples for Creating Connections (for Roo)
 
 This document provides examples of how to ask Roo to create different kinds of connections between notes in this Obsidian vault. Refer to [[ROO_CONNECTION_GUIDELINES]] for the underlying strategies.

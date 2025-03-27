@@ -35,40 +35,27 @@ def standardize_notes(vault_path):
             frontmatter_str = parts[1].strip()
             content_str = parts[2].strip()
 
-            # Fix YAML syntax errors
-            frontmatter_str = re.sub(r"\*\*Type:\*\*", "Type:", frontmatter_str)
-            frontmatter_str = re.sub(r"\*\*Status:\*\*", "Status:", frontmatter_str)
-            frontmatter_str = re.sub(r"\*\*Related:\*\*", "Related:", frontmatter_str)
-            frontmatter_str = re.sub(r"\*\*Parent:\*\*", "Parent:", frontmatter_str)
-            frontmatter_str = re.sub(r"-\s*\[\[(.*?)\]\]:\s*\"(.*?)\"", r"- '\1': \"\2\"", frontmatter_str)
-
-            # Remove non-alphanumeric characters from lines starting with "Type:", "Status:", or "Purpose:"
-            frontmatter_str = re.sub(r"(^|\n)(Type:|Status:|Purpose:|Related:|Parent:|Tags:|Products:)\s*[^\w\s:]+", r"\1\2 ", frontmatter_str)
-
-            # Remove non-alphanumeric characters from lines starting with "Tags:", "Products:"
-            frontmatter_str = re.sub(r"(^|\n)(Tags:|Products:)\s*[^\w\s\[\],#]+", r"\1\2 ", frontmatter_str)
-
-            # Remove non-alphanumeric characters from lines starting with "Related:", "Parent:"
-            frontmatter_str = re.sub(r"(^|\n)(Related:|Parent:)\s*[^\w\s\[\],#]+", r"\1\2 ", frontmatter_str)
-
-            # Remove non-alphanumeric characters from lines starting with "Title:", "Definition:", "Tags:", "Products:", "Related:", "Parent:"
-            frontmatter_str = re.sub(r"(^|\n)(Title:|Definition:|Tags:|Products:|Related:|Parent:)\s*[^\w\s:]+", r"\1\2 ", frontmatter_str)
-
-            # Remove non-alphanumeric characters from lines starting with "Title:", "Definition:", "Tags:", "Products:", "Related:", "Parent:"
-            frontmatter_str = re.sub(r"(^|\n)(Title:|Definition:|Tags:|Products:|Related:|Parent:)\s*[^\w\s\[\],#]+", r"\1\2 ", frontmatter_str)
-
-            # Remove non-alphanumeric characters from lines starting with "Title:", "Definition:", "Tags:", "Products:", "Related:", "Parent:", "Status:", "Purpose:"
-            frontmatter_str = re.sub(r"(^|\n)(Title:|Definition:|Tags:|Products:|Related:|Parent:|Status:|Purpose:)\s*[^\w\s\[\],#]+", r"\1\2 ", frontmatter_str)
+            # Fix YAML syntax errors - More general approach
+            frontmatter_str = re.sub(r"\*\*(.*?):\*\*", r"\1:", frontmatter_str) # Remove ** around any key
+            frontmatter_str = re.sub(r"-\s*\[\[(.*?)\]\]:\s*\"(.*?)\"", r"- '\1': \"\2\"", frontmatter_str) # Fix list keys
 
             # Load the frontmatter using yaml
             try:
+                # Attempt to load with safe_load first
                 metadata = yaml.safe_load(frontmatter_str) if frontmatter_str else {}
             except yaml.YAMLError as e:
-                print(f"YAML error in {md_file}: {e}")
-                continue
+                 print(f"YAML error in {md_file}: {e}")
+                 # If safe_load fails, try to load ignoring aliases (might help with some errors)
+                 try:
+                     metadata = yaml.load(frontmatter_str, Loader=yaml.BaseLoader) if frontmatter_str else {}
+                     print(f"Loaded {md_file} with BaseLoader after safe_load failed.")
+                 except yaml.YAMLError as e2:
+                     print(f"YAML error even with BaseLoader in {md_file}: {e2}")
+                     continue # Skip file if both loaders fail
 
             if not isinstance(metadata, dict):
-                print(f"Invalid frontmatter in {md_file}: Frontmatter is not a dictionary")
+                # If loaded with BaseLoader, it might not be a dict, skip if so
+                print(f"Invalid frontmatter structure in {md_file}: Frontmatter is not a dictionary")
                 continue
 
             # Add missing properties with default values
@@ -77,7 +64,8 @@ def standardize_notes(vault_path):
                     metadata[key] = value
 
             # Write the modified frontmatter back to the file
-            new_frontmatter_str = yaml.dump(metadata, sort_keys=False)
+            # Use safe_dump for writing standard YAML
+            new_frontmatter_str = yaml.safe_dump(metadata, sort_keys=False, allow_unicode=True)
             new_content = f"---\n{new_frontmatter_str}\n---\n{content_str}"
 
             with open(md_file, 'w', encoding='utf-8') as f:

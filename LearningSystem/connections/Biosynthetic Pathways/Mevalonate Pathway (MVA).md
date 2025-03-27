@@ -1,15 +1,24 @@
-# LearningSystem/connections/Biosynthetic Pathways/Mevalonate Pathway (MVA).md
+---
+Type: Pathway
+Status: Stub
+Parent:
+- - Biosynthetic Pathways Overview
+Products: Isopentenyl Pyrophosphate (IPP), Dimethylallyl Pyrophosphate (DMAPP) ->
+  [[Terpenoids]], Steroids
+Precursors: Acetyl-CoA
+Location: Cytoplasm (Eukaryotes, Archaea, some Bacteria)
+Tags: null
+Source: ''
+Confidence: Medium
+Date Accessed: null
+Spaced Repetition Interval: 1
+Last Reviewed Date: null
+Forgetting Index: 1.0
+Cognitive Load: Medium
+Elaboration Level: Basic
+Mnemonic Encoding: ''
 
 ---
-**Type:** Pathway
-**Status:** Stub
-**Parent:** [[Biosynthetic Pathways Overview]]
-**Products:** Isopentenyl Pyrophosphate (IPP), Dimethylallyl Pyrophosphate (DMAPP) -> [[Terpenoids]], Steroids
-**Precursors:** Acetyl-CoA
-**Location:** Cytoplasm (Eukaryotes, Archaea, some Bacteria)
-**Tags:** #biochemistry #metabolism #pathway #isoprenoid #terpenoid
----
-
 # Mevalonate Pathway (MVA)
 
 The Mevalonate (MVA) Pathway is a key metabolic pathway that produces Isopentenyl Pyrophosphate (IPP) and Dimethylallyl Pyrophosphate (DMAPP), the universal five-carbon precursors for [[Terpenoids]] and steroids.
