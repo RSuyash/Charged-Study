@@ -1,0 +1,107 @@
+---
+Cognitive Load: Medium
+Confidence: Medium
+Date Accessed: null
+Elaboration Level: Basic
+Forgetting Index: 1.0
+Last Reviewed Date: null
+Mnemonic Encoding: ''
+Source: ''
+Spaced Repetition Interval: 1
+connections:
+- Primary Metabolites: Key differences in function, production, etc.
+- Pharmaceutical Biotechnology: Significance and applications in pharmaceuticals
+- Industrial Biotechnology: Production and optimization in industrial settings
+- Sources of Secondary Metabolites: Classification based on biological sources
+- Plant Sources of Secondary Metabolites: Detailed list of plant-derived secondary
+    metabolites
+- Fungal Sources of Secondary Metabolites: Detailed list of fungal-derived secondary
+    metabolites
+- Bacterial Sources of Secondary Metabolites: Detailed list of bacterial-derived secondary
+    metabolites
+- Animal Sources of Secondary Metabolites: Detailed list of animal-derived secondary
+    metabolites
+- Biosynthetic Pathways/Biosynthetic Pathways Overview: Overview of how secondary
+    metabolites are synthesized
+coverage: 0.0
+review_dates:
+- 2025-03-27: Initial creation
+tags:
+- concept
+- metabolite
+- classification
+- source
+- pharmaceutical_biotechnology
+- PB_Unit_I
+sr-interval: 1
+sr-ease: 270
+---
+
+
+# UNIT I
+
+Creator: Suyash Rahegaonkar
+Lecturer: Dr. Makrand Cherekar
+Subject: Industrial Biotechnology (Industrial%20Biotechnology%2019e3a995df87804a8848d6a92de1ff33.md)
+Subject Code: CCBT-2F
+
+## 1.1 Selection of Mutants Producing Improved Levels of Primary Metabolites
+
+### 1.1.1 Mutation Techniques (Chemical, Physical, and Biological)
+
+**Mutation** is a heritable change in the DNA sequence of an organism. In strain improvement, mutations are induced in microorganisms to alter their metabolic pathways and enhance the production of desired primary metabolites. Mutagenesis can be achieved through physical, chemical, and biological methods.
+
+**1. Chemical Mutagenesis:**
+
+Chemical mutagens are chemical compounds that can induce mutations in DNA by reacting with DNA bases or altering DNA structure. They are widely used due to their ease of application and broad spectrum of mutations they can induce.
+
+- **Mechanism of Action:** Chemical mutagens can cause different types of mutations, including:
+    - **Base Analogs:** Chemicals that are structurally similar to normal DNA bases and can be incorporated into DNA during replication, leading to mispairing and mutations in subsequent rounds of replication (e.g., 5-Bromouracil, 2-Aminopurine).
+    - **DNA-modifying Agents:** Chemicals that directly react with DNA bases and alter their structure, leading to miscoding during replication.
+        - **Alkylating Agents:** Add alkyl groups (e.g., methyl, ethyl) to DNA bases, such as guanine. Alkylation can cause mispairing or depurination (loss of purine bases), leading to base substitutions or frameshift mutations (e.g., Ethyl methanesulfonate (EMS), Nitrosoguanidine (NTG)).
+        - **Intercalating Agents:** Insert themselves between DNA bases, distorting the DNA helix and causing frameshift mutations during replication (e.g., Acridine dyes like proflavin, ethidium bromide).
+- **Examples of Chemical Mutagens:**
+    - **Ethyl Methanesulfonate (EMS):** A potent alkylating agent that primarily induces point mutations (base substitutions), particularly G:C to A:T transitions. It is widely used in bacteria, fungi, and plants for strain improvement.
+    - **Nitrosoguanidine (NTG) or N-methyl-N’-nitro-N-nitrosoguanidine:** Another alkylating agent, similar to EMS but often considered more potent and can induce mutations at higher frequencies. It is also known to cause mutations at or near the replication fork.
+    - **Nitrous Acid (HNO₂):** Causes oxidative deamination of bases, converting adenine to hypoxanthine and cytosine to uracil, leading to base pair transitions (A:T to G:C and C:G to T:A).
+    - **Acridine Dyes (e.g., Proflavin, Ethidium Bromide):** Intercalating agents that primarily induce frameshift mutations by inserting or deleting base pairs during DNA replication.
+
+![Fig. Overview of Chemical Mutagenesis](Unit I 1a83a995df878020b6daf598c47a21ae/image.png)
+
+Fig. Overview of Chemical Mutagenesis
+
+**2. Physical Mutagenesis:**
+
+Physical mutagens are physical agents that can induce mutations in DNA, primarily through radiation.
+
+- **Mechanism of Action:** Physical mutagens induce mutations through different mechanisms depending on the type of radiation:
+    - **Ultraviolet (UV) Radiation:** Non-ionizing radiation that is readily absorbed by DNA, particularly by pyrimidine bases (thymine and cytosine). UV radiation causes the formation of pyrimidine dimers (covalent linkages between adjacent pyrimidines on the same DNA strand), which distort the DNA structure and can lead to errors during replication if not repaired (primarily base substitutions and frameshift mutations). UV mutagenesis is effective for surface sterilization and inducing mutations in microorganisms.
+    - **Ionizing Radiation (X-rays, Gamma Rays, and other high-energy radiations):** Ionizing radiation is high-energy radiation that can penetrate deeply into cells and cause more severe DNA damage. Ionizing radiation induces mutations through:
+        - **Direct DNA Damage:** Directly hitting and ionizing DNA molecules, causing DNA strand breaks (single-strand breaks and double-strand breaks), base damage, and chromosomal rearrangements.
+        - **Indirect DNA Damage:** Generating reactive oxygen species (ROS) through radiolysis of water molecules within cells. ROS can cause oxidative damage to DNA, proteins, and lipids. Ionizing radiation typically induces a broad spectrum of mutations, including point mutations, deletions, insertions, and chromosomal rearrangements. Ionizing radiation is more potent mutagen than UV but requires specialized equipment and safety precautions.
+- **Examples of Physical Mutagens:**
+    - **Ultraviolet (UV) Light (typically UV-C, 254 nm):** Commonly used for mutagenesis in microorganisms due to its effectiveness and ease of application. UV lamps emitting UV-C radiation are used to irradiate microbial cultures.
+    - **X-rays:** High-energy electromagnetic radiation. X-ray generators are used for X-ray mutagenesis.
+    - **Gamma (γ) Rays:** High-energy electromagnetic radiation emitted from radioactive isotopes (e.g., Cobalt-60, Cesium-137). Gamma radiation sources are used for gamma mutagenesis.
+    - **Fast Neutrons:** High-energy particles. Neutron radiation sources (e.g., nuclear reactors, particle accelerators) are used for fast neutron mutagenesis, particularly in plants for inducing mutations in seeds.
+
+![Fig. Causes of Physical Mutagenesis](Unit I 1a83a995df878020b6daf598c47a21ae/dc4cebb6-86c0-4450-8d59-54075fcaf2f3.png)
+
+Fig. Causes of Physical Mutagenesis
+
+**3. Biological Mutagenesis (Insertional Mutagenesis):**
+
+Biological mutagenesis involves the use of biological agents, such as transposons or viruses, to introduce mutations into DNA.
+
+- **Mechanism of Action:**
+    - **Transposon Mutagenesis (Insertion Sequences - IS elements, Transposons):** Transposons are mobile genetic elements (“jumping genes”) that can move from one location in the genome to another. Transposon mutagenesis utilizes transposons to randomly insert into genes, disrupting gene function and causing insertional mutations. Transposon insertion is typically random and can inactivate genes, create gene fusions, or alter gene expression depending on the insertion site and transposon structure.
+    - **Virus-Mediated Mutagenesis (Viral Vectors):** Viruses, particularly retroviruses or integrating viruses, can be engineered to carry foreign DNA (including mutagenic sequences or genes) into host cells and integrate into the host genome. Viral vectors can be used for insertional mutagenesis or for delivering genes that promote mutations (e.g., error-prone polymerases).
+- **Examples of Biological Mutagens:**
+    - **Transposons (e.g., Tn5, Tn10, Mu transposon):** Transposon delivery systems are used to introduce transposons into bacterial, fungal, and plant genomes for random mutagenesis. Transposon mutagenesis is particularly useful for gene discovery and functional genomics studies.
+    - **Retroviral Vectors:** Retroviruses can be engineered to deliver and integrate genes into the genome of eukaryotic cells, including mammalian cells and yeast. Retroviral vectors can be used to introduce mutagenic genes or sequences.
+    - **Adeno-Associated Virus (AAV) Vectors:** AAV vectors are less commonly used for random mutagenesis but can be employed for targeted gene insertion or gene editing in mammalian cells.
+
+**Comparison of Mutation Techniques:**
+
+| Mutagenesis Technique | Mutagen Type | Mutation Type Induced | Ease of Use | Cost | Safety Concerns | Control over Mutation | Randomness |
+| 
